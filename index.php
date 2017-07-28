@@ -21,7 +21,7 @@ options = {
 	//fieldName = fieldName.trim();
 	var fieldName = link.substring(0,link.length - 1 + 1);
 	//var fieldName = link.substring(0, string.length()-1) + "1";
-	alert(fieldName);
+	//alert(fieldName);
 		   document.getElementById("upload01").value = files[0].link;	     
      //  for(i = 0; i< files.length; i++){
 //
