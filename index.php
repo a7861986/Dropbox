@@ -1,6 +1,6 @@
 <!DOCTYPE html><html class=''>
 <head>
-<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="z7hltuedx746ywz"></script>
+<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="YOUR_API_KEY"></script>
 </head>
 <body>
 <div class="row">
