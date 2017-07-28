@@ -7,9 +7,7 @@ It uses Dropbox CHOOSER property
 
 Installation
 -----------
-1. Copy and past the github url to your command prompt.
-
-2. Download the Git repository in zip and copy and paste in your local server.
+1. Copy and past the github url to your command prompt. OR Download the Git repository in zip and copy and paste in your local server.
 
 3. At the index.php file chaneg YOUR_API_KEY_HERE with your API Key.
 
